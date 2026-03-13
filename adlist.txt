@@ -3,6 +3,11 @@
 ||onelink.me^$important
 ||ads^$important
 ||advertising^$important
+||googleanalytics.com
+||click.google-analytics.com
+||crashlytics.com
+||google-analytics.com
+||googletagmanager.com
 1.1.1.1 app.kompas.com
 1.1.1.1 dreamina.capcut.com
 ||Komdigi.go.id^$important
