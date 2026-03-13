@@ -7,6 +7,7 @@
 1.1.1.1 dreamina.capcut.com
 ||Komdigi.go.id^$important
 ||.doubleclick.net^$important
+||.doubleclick.com
 ||doubleclick^$important
 ||z-m-gateway.facebook.com^$important
 ||pagead2.googlesyndication.com^
