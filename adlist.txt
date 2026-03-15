@@ -3,6 +3,12 @@
 ||onelink.me^$important
 ||ads^$important
 ||advertising^$important
+||adakami^
+||adakami
+||pindar^
+||pindar
+||pinjol^
+||pinj0l^
 ||googleanalytics.com
 ||click.google-analytics.com
 ||crashlytics.com
