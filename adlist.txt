@@ -88,3 +88,4 @@
 ||r4---sn-3pm7knel.googlevideo.com^$important
 ||r1---sn-3pm7kn7l.googlevideo.com^$important
 ||r5---sn-30a7rner.googlevideo.com^$important
+||r4---sn-30a7rne6.googlevideo.com^$important
