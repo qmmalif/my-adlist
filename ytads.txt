@@ -80,6 +80,7 @@ r1---sn-8xgp1vo-xfge7.googlevideo.com
 r1---sn-8xgp1vo-xfgee.googlevideo.com
 r1---sn-8xgp1vo-xfgk.googlevideo.com
 r1---sn-8xgp1vo-xfgr.googlevideo.com
+r1---sn-30a7rnek.googlevideo.com
 r1---sn-a5m7ln76.googlevideo.com
 r1---sn-a5m7ln7d.googlevideo.com
 r1---sn-a5m7ln7k.googlevideo.com
