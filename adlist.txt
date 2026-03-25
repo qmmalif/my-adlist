@@ -87,7 +87,6 @@
 ||rr1---sn-2uuxa3vh-jb3ez.googlevideo.com^$important
 ||rr3---sn-2uuxa3vh-jb3lz.googlevideo.com^$important
 ||rr3---sn-2uuxa3vh-jb3ez.googlevideo.com^$important
-||rr6---sn-2uuxa3vh-jb3ez.googlevideo.com^$important
 ||r4---sn-3pm7knel.googlevideo.com^$important
 ||r1---sn-3pm7kn7l.googlevideo.com^$important
 ||r5---sn-30a7rner.googlevideo.com^$important
