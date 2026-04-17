@@ -5,7 +5,10 @@
 *advertising*
 *adakami*
 *adapundi*
+*eazycash*
+*easycash*
 *pindar*
+*pinjaman*
 *pinjol*
 *pinj0l*
 ||googleanalytics.com^
@@ -19,6 +22,8 @@
 ||r4---sn-30a7rned.googlevideo.com^$important
 *alihkan*
 ||Komdigi.go.id^$important
+*komdigi*
+*kominfo*
 ||.doubleclick.net^$important
 ||.doubleclick.com
 *doubleclick*
