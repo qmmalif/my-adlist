@@ -17,8 +17,8 @@
 ||crashlytics.com
 ||google-analytics.com
 ||googletagmanager.com
-1.1.1.1 app.kompas.com
-1.1.1.1 dreamina.capcut.com
+0.0.0.0 app.kompas.com
+0.0.0.0 dreamina.capcut.com
 ||r4---sn-30a7rned.googlevideo.com^$important
 *alihkan*
 ||Komdigi.go.id^$important
