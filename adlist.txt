@@ -59,6 +59,7 @@
 *elon*
 *4ds*
 *bersponsor*
+*sponsored*
 *ads*
 *pagead*
 *aclk*
