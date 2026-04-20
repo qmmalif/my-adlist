@@ -11,6 +11,8 @@
 *pinjaman*
 *pinjol*
 *pinj0l*
+@@||threads.com^$important
+@@||www.googletagmanager.com^$important
 ||googleanalytics.com^
 ||click.google-analytics.com
 ||clicks.google-analytics.com
