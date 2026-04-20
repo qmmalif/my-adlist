@@ -30,6 +30,9 @@
 ||z-m-gateway.facebook.com^$important
 ||pagead2.googlesyndication.com^
 ||adservice.google.co.id^
+||tiktok.com^$removeparam=ttclid
+||youtube.com^$removeparam=aclk
+||youtube.com^$removeparam=acclk
 *aclk?*
 *aclk*
 ||jnn-pa.googleapis.com^$important
