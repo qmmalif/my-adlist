@@ -33,6 +33,7 @@
 ||tiktok.com^$removeparam=ttclid
 ||youtube.com^$removeparam=aclk
 ||youtube.com^$removeparam=acclk
+||youtube.com^$removeparam=4Z0IH7eDrHM
 *aclk?*
 *aclk*
 ||jnn-pa.googleapis.com^$important
