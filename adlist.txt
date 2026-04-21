@@ -78,6 +78,7 @@
 *istbw*
 *slot*
 *sl0t*
+*lucky*
 *pgb*
 *fmt*
 *4waes*
