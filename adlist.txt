@@ -194,8 +194,8 @@
 ||playconsole.static.usercontent.goog^$important
 
 ! ===== MEDIA SERVERS =====
-||*.googlevideo.com^$important
-||*.gvt1.com^$important
+!||*.googlevideo.com^$important
+!||*.gvt1.com^$important
 
 ! ===== WILDCARD TLD =====
 ||com.br^
