@@ -181,6 +181,14 @@
 ||situswin-footer.pages.dev^$important
 ||vip-connect.apppanen.dev^$important
 
+! ===== Yt-web-test =====
+||googlevideo.com/videoplayback?*ctier=L&oad^
+||youtube.com/get_midroll_info^
+||youtube.com/pagead^
+||youtube.com/api/stats/ads^
+||doubleclick.net^
+||googleadservices.com^
+
 ! ===== CHAT / TOOLS =====
 ||direct.lc.chat^$important
 ||api.widgetable.net^$important
