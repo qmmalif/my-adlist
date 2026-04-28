@@ -32,6 +32,7 @@
 ||suggestqueries.google.com^$important
 ||appsgrowthpromo-pa.googleapis.com^$important
 ||webpermissionpredictions.googleapis.com^$important
+||android.clients.google.com^
 
 ||pagead2.googlesyndication.com^
 ||adservice.google.co.id^
