@@ -1,7 +1,3 @@
-! ===== OPTIMIZED FULL LIST (NO ENTRY REMOVED) =====
-! Semua rule dipertahankan, dirapikan, typo dibenerin, duplicate digabung
-! Wildcard domain diperluas sesuai request
-
 ! ===== ALLOWLIST =====
 @@||threads.com^$important
 @@||www.googletagmanager.com^$important
