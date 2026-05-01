@@ -50,6 +50,8 @@
 *easycash*
 *krediOne*
 *krediOne-pinjaman*
+*Akulaku*
+*Loan*
 *pindar*
 *pinjaman*
 *pinjol*
