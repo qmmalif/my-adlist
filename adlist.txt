@@ -45,6 +45,7 @@
 *advertising*
 *adakami*
 *adapundi*
+*adapundi-pinjaman*
 *eazycash*
 *easycash*
 *pindar*
