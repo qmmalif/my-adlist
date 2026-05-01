@@ -48,6 +48,8 @@
 *adapundi-pinjaman*
 *eazycash*
 *easycash*
+*krediOne*
+*krediOne-pinjaman*
 *pindar*
 *pinjaman*
 *pinjol*
