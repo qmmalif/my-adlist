@@ -35,6 +35,7 @@
 ||.doubleclick.net^$important
 ||.doubleclick.com^
 ||www.displayvertising.com^$important
+||wwiqtest.com^
 
 ||blob:https://www.youtube.com^$important
 
