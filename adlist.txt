@@ -30,6 +30,7 @@
 ||webpermissionpredictions.googleapis.com^$important
 ||android.clients.google.com^
 ||meta.ai^
+||hw.online^
 
 ||pagead2.googlesyndication.com^
 ||adservice.google.co.id^
