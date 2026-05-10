@@ -46,6 +46,7 @@
 
 ! ===== KEYWORD BLOCK =====
 *advertising*
+*adchoices*
 *adakami*
 *adapundi*
 *adapundi-pinjaman*
