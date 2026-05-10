@@ -32,6 +32,7 @@
 ||meta.ai^
 ||hw.online^
 
+||tpc.googlesyndication.com^
 ||pagead2.googlesyndication.com^
 ||adservice.google.co.id^
 ||.doubleclick.net^$important
@@ -223,3 +224,6 @@ youtube.com##ytd-promoted-video-renderer
 youtube.com##ytd-companion-slot-renderer
 youtube.com##ytd-ad-slot-renderer
 youtube.com##.ytp-ad-image-overlay
+||youtube.com/api/stats/ads^
+||youtube.com/pagead^
+*pagead*
