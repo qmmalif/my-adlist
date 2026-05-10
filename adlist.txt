@@ -29,6 +29,9 @@
 ||appsgrowthpromo-pa.googleapis.com^$important
 ||webpermissionpredictions.googleapis.com^$important
 ||android.clients.google.com^
+||promote.telegram.org^
+||ads.telegram.org^
+||analytics.telegram.org^
 ||meta.ai^
 ||hw.online^
 
