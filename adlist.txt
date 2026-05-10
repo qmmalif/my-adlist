@@ -216,3 +216,10 @@
 ! ===== WILDCARD TLD =====
 ||com.br^
 ||run.app^
+
+! ===== Youtube Banner =====
+youtube.com##ytd-display-ad-renderer
+youtube.com##ytd-promoted-video-renderer
+youtube.com##ytd-companion-slot-renderer
+youtube.com##ytd-ad-slot-renderer
+youtube.com##.ytp-ad-image-overlay
