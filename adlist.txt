@@ -25,7 +25,6 @@
 ||googletagmanager.com^
 ||jnn-pa.googleapis.com^$important
 ||safebrowsing.googleapis.com^$important
-||suggestqueries.google.com^$important
 ||appsgrowthpromo-pa.googleapis.com^$important
 ||webpermissionpredictions.googleapis.com^$important
 ||android.clients.google.com^
