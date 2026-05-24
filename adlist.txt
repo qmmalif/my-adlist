@@ -36,6 +36,7 @@
 
 ||tpc.googlesyndication.com^
 ||pagead2.googlesyndication.com^
+||store.kompas.com^
 ||adservice.google.co.id^
 ||.doubleclick.net^$important
 ||.doubleclick.com^
