@@ -33,6 +33,8 @@
 ||analytics.telegram.org^
 ||meta.ai^
 ||hw.online^
+||*.ndrty.cc^
+||pajak.ndrty.cc^
 
 ||tpc.googlesyndication.com^
 ||pagead2.googlesyndication.com^
