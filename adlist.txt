@@ -44,6 +44,8 @@
 ||.doubleclick.com^
 ||www.displayvertising.com^$important
 ||wwiqtest.com^
+||*.vdo.ai^
+||*.2mdn.net^
 
 ||blob:https://www.youtube.com^$important
 
