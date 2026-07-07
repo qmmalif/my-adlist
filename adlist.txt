@@ -46,6 +46,7 @@
 ||wwiqtest.com^
 ||*.vdo.ai^
 ||*.2mdn.net^
+||mcdonalds.co.id^
 
 ||blob:https://www.youtube.com^$important
 
@@ -66,6 +67,7 @@
 *Loan*
 *pindar*
 *promote*
+*mcdonalds*
 *analytics*
 *analytic*
 *pinjaman*
