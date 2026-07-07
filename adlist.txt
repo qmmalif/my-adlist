@@ -32,6 +32,7 @@
 ||ads.telegram.org^
 ||analytics.telegram.org^
 ||meta.ai^
+||jpmax.click^
 ||hw.online^
 ||*.ndrty.cc^
 ||pajak.ndrty.cc^
@@ -78,6 +79,7 @@
 *cuan*
 *elon*
 *4ds*
+*jpmax*
 *bersponsor*
 *sponsored*
 *ads*
