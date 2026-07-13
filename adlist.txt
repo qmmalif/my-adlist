@@ -143,6 +143,9 @@
 ||jpslot88royal.com^$important
 ||www.zmynapdza.in^$important
 ||shakingtacklingunpeeled.com^$important
+||rewardly-hub.com^$important
+||privashield-zone.com^$important
+||*.privashield-zone.com^
 
 ! ===== ALL TLD RANDOMS =====
 ||pacuspingacor1.^$important
