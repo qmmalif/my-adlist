@@ -50,6 +50,7 @@
 ||mcdonalds.co.id^
 ||link*jta.site^
 ||*.link*jta.site^
+||*.jayaabadi.pro^
 
 ||blob:https://www.youtube.com^$important
 
@@ -115,9 +116,11 @@
 *jackpot*
 *zmynapdza*
 *shakingtacklingunpeeled*
+*beykozeskort4*
 
 ! ===== GOV / LOCAL =====
 ||komdigi.go.id^$important
+||internet-positif.info^$important
 
 ! ===== FACEBOOK =====
 ||z-m-gateway.facebook.com^$important
