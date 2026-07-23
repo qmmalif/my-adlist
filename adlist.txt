@@ -48,6 +48,8 @@
 ||*.vdo.ai^
 ||*.2mdn.net^
 ||mcdonalds.co.id^
+||link*jta.site^
+||*.link*jta.site^
 
 ||blob:https://www.youtube.com^$important
 
