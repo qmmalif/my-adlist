@@ -73,6 +73,7 @@
 *mcdonalds*
 *analytics*
 *analytic*
+*telemetry*
 *pinjaman*
 *pinjam*
 *pinjol*
@@ -86,6 +87,7 @@
 *sponsored*
 *ads*
 *pagead*
+*iklan*
 *aclk*
 *aclk?*
 *googleadservices*
