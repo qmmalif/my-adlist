@@ -51,6 +51,7 @@
 ||link*jta.site^
 ||*.link*jta.site^
 ||*.jayaabadi.pro^
+||*.beykozeskort*.*^
 
 ||blob:https://www.youtube.com^$important
 
@@ -117,6 +118,7 @@
 *zmynapdza*
 *shakingtacklingunpeeled*
 *beykozeskort4*
+*beykozeskort*
 
 ! ===== GOV / LOCAL =====
 ||komdigi.go.id^$important
