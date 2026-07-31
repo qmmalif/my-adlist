@@ -36,6 +36,7 @@
 ||hw.online^
 ||*.ndrty.cc^
 ||pajak.ndrty.cc^
+||oval.id^$important
 
 ||tpc.googlesyndication.com^
 ||pagead2.googlesyndication.com^
@@ -84,6 +85,7 @@
 *cuan*
 *elon*
 *4ds*
+*Tracker*
 *jpmax*
 *bersponsor*
 *sponsored*
