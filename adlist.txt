@@ -100,6 +100,9 @@
 *komdigi*
 *kominfo*
 *doubleclick*
+*cookie*
+*cookies*
+*cache*
 *sukseskan*
 *buktirogtoto*
 *keraskale*
