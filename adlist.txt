@@ -160,6 +160,7 @@
 ||rewardly-hub.com^$important
 ||privashield-zone.com^$important
 ||*.privashield-zone.com^
+*tigerasia*
 
 ! ===== ALL TLD RANDOMS =====
 ||pacuspingacor1.^$important
