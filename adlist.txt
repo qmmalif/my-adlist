@@ -73,6 +73,7 @@
 *Loan*
 *pindar*
 *promote*
+*promo*
 *mcdonalds*
 *analytics*
 *analytic*
@@ -204,6 +205,8 @@
 ||elon18.^$important
 ||gmpwaqf.^$important
 ||bttss.^$important
+||bca.idbccaa.com^$important
+||.idbccaa.^
 
 ! ===== TIKTOK =====
 ||v16-webapp-prime.tiktok.com^$important
