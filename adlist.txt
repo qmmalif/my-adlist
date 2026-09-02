@@ -125,6 +125,8 @@
 *shakingtacklingunpeeled*
 *beykozeskort4*
 *beykozeskort*
+*popup*
+*popups*
 
 ! ===== GOV / LOCAL =====
 ||komdigi.go.id^$important
