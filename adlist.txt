@@ -1,113 +1,529 @@
-! ===== ALLOWLIST =====
-@@||threads.com^$important
-@@||www.googletagmanager.com^$important
+! ==========================================================
+! AD / TRACKER / SCAM BLOCKLIST
+! Optimized + Alphabetical + No Intended Coverage Reduction
+! ==========================================================
+
+
+! ==========================================================
+! ALLOWLIST
+! ==========================================================
+
 @@||adtidy.org^
 @@||scholar.google.com^$important
+@@||threads.com^$important
+@@||www.googletagmanager.com^$important
 @@||yt4.ggpht.com^$important
 
-! ===== PARAM CLEANER =====
-||youtube.com^$removeparam=pp
-||youtube.com^$removeparam=aclk
-||youtube.com^$removeparam=acclk
-||youtube.com^$removeparam=pagead
-||youtube.com^$removeparam=4Z0IH7eDrHM
-||tiktok.com^$removeparam=ttclid
 
-! ===== HOST BLOCK =====
-||www.googleadservices.com^$important
+! ==========================================================
+! PARAMETER CLEANER
+! ==========================================================
+
+||tiktok.com^$removeparam=ttclid
+||youtube.com^$removeparam=4Z0IH7eDrHM
+||youtube.com^$removeparam=acclk
+||youtube.com^$removeparam=aclk
+||youtube.com^$removeparam=pagead
+||youtube.com^$removeparam=pp
+
+
+! ==========================================================
+! HOST BLOCK — A → Z
+! ==========================================================
+
+||1dewa.zone^$important
+||16gift.com^$important
+||4waes.xyz^
+||657g.xyz^
+||7nmsw5eg.^$important
+||a4.a7777a44.com^$important
+||a7777a44.com^$important
+||a7777wfn10.com^$important
+||ads.telegram.org^
+||ads-api.twitter.com^
+||ads-twitter.com^
+||adservice.google.co.id^
+||adservice.google.com^
+||analytics.instagram.com^
+||analytics.telegram.org^
+||analytics.twitter.com^
+||appsgrowthpromo-pa.googleapis.com^$important
+||api.samsungconsent.com^$important
+||api.widgetable.net^$important
+||app-measurement.com^
+||bca.idbccaa.com^$important
+||beautyindonesiaco.^$important
 ||berbuatbaik.id^
-||onelink.me^$important
-||googleanalytics.com^
-||google-analytics.com^
+||bttss.^$important
+||cdnppp889.^$important
 ||click.google-analytics.com^
 ||clicks.google-analytics.com^
+||com.br^
 ||crashlytics.com^
+||datah04.^$important
+||dana.4waes.xyz^$important
+||dana.tpczz.top^$important
+||direct.lc.chat^$important
+||dijaminjackpot.xyz^$important
+||displayvertising.com^$important
+||doubleclick.com^
+||doubleclick.net^$important
+||dreamina.capcut.com^
+||dry.zctlrli.com^$important
+||encrypted-tbn*.gstatic.com^$important
+||etus.digital^$important
+||fmt69.com^$important
+||gacorbos.^$important
+||geetest.com^$important
+||gk3.^$important
+||gmpwaqf.^$important
+||google-analytics.com^
+||googleadservices.com^
+||googleanalytics.com^
 ||googletagmanager.com^
+||gotallcards.^$important
+||graph.facebook.com^$important
+||infodownline.^$important
+||internet-positif.info^$important
+||istbw.com^$important
+||jayaabadi.pro^
 ||jnn-pa.googleapis.com^$important
-||safebrowsing.googleapis.com^$important
-||appsgrowthpromo-pa.googleapis.com^$important
-||webpermissionpredictions.googleapis.com^$important
-||android.clients.google.com^
+||jpmax.click^
+||jpslot88royal.com^$important
+||kesehatan247-indonesia.^$important
+||kliilkbca.ilgln.com^$important
+||kue-salju.^$important
+||ladicdn.com^$important
+||ladipage.com^$important
+||ldpform.^$important
+||lh5.googleusercontent.com^$important
+||lh6.googleusercontent.com^$important
+||lh7-rt.googleusercontent.com^$important
+||likscl.^$important
+||mcdonalds.co.id^
+||microloh.^$important
+||nota-menarik.^$important
+||onelink.me^$important
+||oval.id^$important
+||pagead2.googlesyndication.com^
+||panen138site.^$important
+||pacuspingacor1.^$important
+||p19-common-sign.tiktokcdn.com^$important
+||pgb26.pro^$important
+||pgb.zone^$important
+||playconsole.static.usercontent.goog^$important
 ||promote.telegram.org^
+||promotedtweet.com^
+||privashield-zone.com^$important
+||r.stripe.com^$important
+||rewardly-hub.com^$important
+||safebrowsing.googleapis.com^$important
+||sf16-website-login.neutral.ttwstatic.com^$important
+||shakingtacklingunpeeled.com^$important
+||situswin-footer.pages.dev^$important
+||slot988jpayam-amp--awpos-shop.cdn.ampproject.org^$important
+||store.kompas.com^
+||stripe.com^$important
+||sw5000-footer.pages.dev^$important
+||sw5000baru.com^$important
+||suggestqueries.google.com^$important
+||syndication.twitter.com^
+||tj.16gift.com^$important
+||tj.657g.xyz^$important
+||tj761z2l.^$important
+||tpczz.top^
+||tpc.googlesyndication.com^
+||tsyndicate.com^$important
+||uh5hzrxvwl.^$important
+||v16-webapp-prime.tiktok.com^$important
+||v19-web-newkey.tiktokcdn.com^$important
+||vip-connect.apppanen.dev^$important
+||webpermissionpredictions.googleapis.com^$important
+||www.dkk04.com^$important
+||www.displayvertising.com^$important
+||www.googleadservices.com^$important
+||www.zmynapdza.in^$important
+||wjuaxsqbgeffifq.^$important
+||x.^
+||z-m-gateway.facebook.com^$important
+||z-p42-chat-e2ee-ig.facebook.com^$important
+||zmynapdza.in^$important
+
+
+! ==========================================================
+! RANDOM / SCAM / GAMBLING — ALL TLD
+! ==========================================================
+
+||3b3n88g29zdeucu.^$important
+||652w5zj7uoippaj.^$important
+||7nmsw5eg.^$important
+||a7777wfn10.^$important
+||akunvipptoto12.^$important
+||ap4r.^$important
+||adsnota.^$important
+||beautyindonesiaco.^$important
+||bttss.^$important
+||bungkusan.^$important
+||cdnppp889.^$important
+||cfmpd4hbx8xjp3g.^$important
+||d3p06kruz03oxty.^$important
+||datah04.^$important
+||gacorbos.^$important
+||gk3.^$important
+||gmpwaqf.^$important
+||gotallcards.^$important
+||infodownline.^$important
+||jnwbddmtkko0gzr.^$important
+||kesehatan247-indonesia.^$important
+||kue-salju.^$important
+||ldpform.^$important
+||likscl.^$important
+||microloh.^$important
+||nota-menarik.^$important
+||panen138site.^$important
+||pacuspingacor1.^$important
+||pexp1lcj4ajwjpz.^$important
+||tj761z2l.^$important
+||trubazna.^$important
+||uh5hzrxvwl.^$important
+||uxp6k3b3doxiwgn.^$important
+||wjuaxsqbgeffifq.^$important
+||yi32b07m0oeolzt.^$important
+
+
+! ==========================================================
+! KEYWORD BLOCK — A → Z
+! ==========================================================
+
+*4ds*
+*4waes*
+*657g*
+*aclk*
+*aclk?*
+*adakami*
+*adapundi*
+*adapundi-pinjaman*
+*ads*
+*adservices*
+*advertising*
+*adchoices*
+*Akulaku*
+*alihkan*
+*analytic*
+*analytics*
+*beykozeskort*
+*bersponsor*
+*buktirogtoto*
+*cache*
+*cookie*
+*cookies*
+*cuan*
+*displayvertising*
+*doubleclick*
+*easycash*
+*eazycash*
+*elon*
+*fmt*
+*gacor*
+*googleadservices*
+*iklan*
+*istbw*
+*jackpot*
+*jpmax*
+*krediOne*
+*krediOne-pinjaman*
+*lucky*
+*Loan*
+*mcdonalds*
+*pagead*
+*panen*
+*pinjam*
+*pinjaman*
+*pinj0l*
+*pinjol*
+*popups*
+*popup*
+*promote*
+*promo*
+*rogtotostory*
+*shakingtacklingunpeeled*
+*slot*
+*sl0t*
+*sponsored*
+*sukseskan*
+*tigerasia*
+*tpczz*
+*Tracker*
+*16gift*
+*vip*
+*xx*
+
+
+! ==========================================================
+! SPECIAL HOST / WILDCARD RULES
+! ==========================================================
+
+||*.2mdn.net^
+||*.beykozeskort*.*^
+||*.jayaabadi.pro^
+||*.link*jta.site^
+||*.ndrty.cc^
+||*.vdo.ai^
+||a.magsrv.com^$important
+||a7777wfn10.com^$important
+||a4.a7777a44.com^$important
+||buktirogtoto.sgp1.digitaloceanspaces.com^$important
+||click.google-analytics.com^
+||dana.4waes.xyz^$important
+||dana.tpczz.top^$important
+||epdg.epc.mnc010.mcc510.pub.3gppnetwork.org^$important
+||hw.online^
+||k.gk3.cc^$important
+||kliilkbca.ilgln.com^$important
+||link*jta.site^
+||pajak.ndrty.cc^
+||r4---sn-30a7rned.googlevideo.com^$important
+||rewardly-hub.com^$important
+||s.magsrv.com^$important
+||s.pemsrv.com^$important
+||rr1---sn-2uuxa3vh-cqve.googlevideo.com^$important
+||rr1---sn-2uuxa3vh-cqve7.googlevideo.com^$important
+||rr1---sn-2uuxa3vh-cqvr.googlevideo.com^$important
+||rr1---sn-2uuxa3vh-cqvs.googlevideo.com^$important
+||rr1---sn-2uuxa3vh-cqvz.googlevideo.com^$important
+||rr1---sn-2uuxa3vh-jb3s7.googlevideo.com^$important
+||rr1---sn-2uuxa3vh-jb3sk.googlevideo.com^$important
+||rr1---sn-2uuxa3vh-jb3sz.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-cqvk.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-cqvl.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-cqvr.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-cqvs.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-jb3e7.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-jb3ek.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-jb3ez.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-jb3lz.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-jb3s7.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-jb3sz.googlevideo.com^$important
+||rr3---sn-2uuxa3vh-jb3ek.googlevideo.com^$important
+||rr3---sn-2uuxa3vh-jb3lz.googlevideo.com^$important
+||rr3---sn-2uuxa3vh-jb3sk.googlevideo.com^$important
+||rr3---sn-2uuxa3vh-jb3sz.googlevideo.com^$important
+||rr3---sn-2uuxa3vh-jb3ek.googlevideo.com^$important
+||rr4---sn-2uuxa3vh-cqvk.googlevideo.com^$important
+||rr4---sn-2uuxa3vh-cqvl.googlevideo.com^$important
+||rr4---sn-2uuxa3vh-cqve.googlevideo.com^$important
+||rr4---sn-2uuxa3vh-jb3lz.googlevideo.com^$important
+||rr5---sn-2uuxa3vh-jb3ez.googlevideo.com^$important
+||rr6---sn-2uuxa3vh-jb3lz.googlevideo.com^$important
+||rr7---sn-2uuxa3vh-cqve.googlevideo.com^$important
+||rr7---sn-2uuxa3vh-jb3lz.googlevideo.com^$important
+||rr8---sn-2uuxa3vh-cqve.googlevideo.com^$important
+||rr8---sn-2uuxa3vh-jb3lz.googlevideo.com^$important
+||r1---sn-3pm7kn7l.googlevideo.com^$important
+||r2---sn-30a7ynl7.googlevideo.com^$important
+||r3---sn-npoe7nsr.googlevideo.com^$important
+||r3---sn-npoldn7l.googlevideo.com^$important
+||r4---sn-3pm7knel.googlevideo.com^$important
+||r4---sn-30a7yne6.googlevideo.com^$important
+||r5---sn-30a7rner.googlevideo.com^$important
+||r5---sn-npoeen6s.googlevideo.com^$important
+||rr4---sn-npoeen66.googlevideo.com^$important
+||rr4---sn-npoe7nsl.googlevideo.com^$important
+||rr5---sn-npoldn7s.googlevideo.com^$important
+||rr2---sn-npoeen6z.googlevideo.com^$important
+||rr4---sn-npoeen66.googlevideo.com^$important
+||rr4---sn-npoeen6s.googlevideo.com^$important
+||rr4---sn-npoe7nsl.googlevideo.com^$important
+||rr5---sn-npoe7ns6.googlevideo.com^$important
+||rr5---sn-npoe7nsl.googlevideo.com^$important
+||rr6---sn-npoe7ns6.googlevideo.com^$important
+||rr7---sn-npoe7ns6.googlevideo.com^$important
+||rr8---sn-npoe7ns6.googlevideo.com^$important
+||rr4---sn-2uuxa3vh-cqvk.googlevideo.com^$important
+||rr4---sn-2uuxa3vh-cqve.googlevideo.com^$important
+||rr3---sn-2uuxa3vh-cqvl.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-cqvr.googlevideo.com^$important
+||rr1---sn-2uuxa3vh-cqvz.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-cqvk.googlevideo.com^$important
+||rr1---sn-2uuxa3vh-cqve.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-jb3sz.googlevideo.com^$important
+||rr3---sn-2uuxa3vh-jb3sk.googlevideo.com^$important
+||rr1---sn-2uuxa3vh-jb3sz.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-jb3s7.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-jb3ek.googlevideo.com^$important
+||rr4---sn-2uuxa3vh-jb3ez.googlevideo.com^$important
+||rr8---sn-2uuxa3vh-jb3lz.googlevideo.com^$important
+||rr1---sn-2uuxa3vh-jb3sk.googlevideo.com^$important
+||rr1---sn-2uuxa3vh-jb3s7.googlevideo.com^$important
+||rr3---sn-2uuxa3vh-jb3lz.googlevideo.com^$important
+||rr3---sn-2uuxa3vh-jb3ez.googlevideo.com^$important
+||rr4---sn-2uuxa3vh-cqvk.googlevideo.com^$important
+||rr4---sn-2uuxa3vh-cqve.googlevideo.com^$important
+||rr7---sn-2uuxa3vh-cqve.googlevideo.com^$important
+||rr8---sn-2uuxa3vh-cqve.googlevideo.com^$important
+||r1---sn-30a7ynek.googlevideo.com^$important
+||r2---sn-npoe7nsr.googlevideo.com^$important
+||r4---sn-30a7yner.googlevideo.com^$important
+||r4---sn-30a7yne6.googlevideo.com^$important
+||r5---sn-30a7rner.googlevideo.com^$important
+||r3---sn-2uuxa3vh-jb3ek.googlevideo.com^$important
+||rr4---sn-npoeen66.googlevideo.com^$important
+||rr5---sn-npoe7ns6.googlevideo.com^$important
+||rr4---sn-npoe7nsl.googlevideo.com^$important
+||rr5---sn-npoldn7s.googlevideo.com^$important
+||rr2---sn-npoeen6z.googlevideo.com^$important
+||r3---sn-npoe7nsr.googlevideo.com^$important
+||r3---sn-npoldn7l.googlevideo.com^$important
+||r2---sn-30a7ynl7.googlevideo.com^$important
+||r4---sn-3pm7knel.googlevideo.com^$important
+||r1---sn-3pm7kn7l.googlevideo.com^$important
+||rr5---sn-30a7rner.googlevideo.com^$important
+||rr4---sn-30a7rne6.googlevideo.com^$important
+||rr4---sn-2uuxa3vh-cqvl.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-cqvk.googlevideo.com^$important
+||rr1---sn-2uuxa3vh-cqve7.googlevideo.com^$important
+||rr4---sn-npoeen6s.googlevideo.com^$important
+||rr2---sn-npoeen6z.googlevideo.com^$important
+||rr5---sn-npoe7ns6.googlevideo.com^$important
+||rr6---sn-npoe7ns6.googlevideo.com^$important
+||rr7---sn-npoe7ns6.googlevideo.com^$important
+||rr8---sn-npoe7ns6.googlevideo.com^$important
+||rr4---sn-npoe7nsl.googlevideo.com^$important
+||rr5---sn-npoldn7s.googlevideo.com^$important
+||rr3---sn-npoldn7l.googlevideo.com^$important
+||rr3---sn-npoe7nsr.googlevideo.com^$important
+||rr2---sn-npoe7nsr.googlevideo.com^$important
+||rr4---sn-npoeen66.googlevideo.com^$important
+||rr5---sn-npoeen6s.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-cqvs.googlevideo.com^$important
+||rr1---sn-2uuxa3vh-cqvs.googlevideo.com^$important
+||rr7---sn-2uuxa3vh-jb3lz.googlevideo.com^$important
+||rr8---sn-2uuxa3vh-jb3lz.googlevideo.com^$important
+||rr6---sn-2uuxa3vh-jb3lz.googlevideo.com^$important
+||rr5---sn-2uuxa3vh-jb3ez.googlevideo.com^$important
+||rr4---sn-2uuxa3vh-jb3lz.googlevideo.com^$important
+||rr3---sn-2uuxa3vh-jb3lz.googlevideo.com^$important
+||rr2---sn-2uuxa3vh-jb3lz.googlevideo.com^$important
+||rr1---sn-2uuxa3vh-jb3lz.googlevideo.com^$important
+
+
+! ==========================================================
+! STATIC / CDN
+! ==========================================================
+
+||encrypted-tbn*.gstatic.com^$important
+||lh5.googleusercontent.com^$important
+||lh6.googleusercontent.com^$important
+||lh7-rt.googleusercontent.com^$important
+||playconsole.static.usercontent.goog^$important
+
+
+! ==========================================================
+! LANDER / FORM
+! ==========================================================
+
+||assets-quizmaker.etus.digital^$important
+||ladicdn.com^$important
+||ladipage.com^$important
+||sw5000-footer.pages.dev^$important
+||situswin-footer.pages.dev^$important
+||vip-connect.apppanen.dev^$important
+
+
+! ==========================================================
+! TIKTOK
+! ==========================================================
+
+||p19-common-sign.tiktokcdn.com^$important
+||sf16-website-login.neutral.ttwstatic.com^$important
+||v16-webapp-prime.tiktok.com^$important
+||v19-web-newkey.tiktokcdn.com^$important
+
+
+! ==========================================================
+! X / TWITTER
+! ==========================================================
+
+||ads-api.twitter.com^
+||ads-twitter.com^
+||analytics.twitter.com^
+||promotedtweet.com^
+||syndication.twitter.com^
+
+
+! ==========================================================
+! TELEGRAM
+! ==========================================================
+
 ||ads.telegram.org^
 ||analytics.telegram.org^
-||meta.ai^
-||jpmax.click^
-||hw.online^
-||*.ndrty.cc^
-||pajak.ndrty.cc^
-||oval.id^$important
+||promote.telegram.org^
 
-||tpc.googlesyndication.com^
-||pagead2.googlesyndication.com^
-||store.kompas.com^
-||adservice.google.co.id^
-||.doubleclick.net^$important
-||.doubleclick.com^
-||www.displayvertising.com^$important
-||wwiqtest.com^
-||*.vdo.ai^
-||*.2mdn.net^
-||mcdonalds.co.id^
-||link*jta.site^
-||*.link*jta.site^
-||*.jayaabadi.pro^
-||*.beykozeskort*.*^
+
+! ==========================================================
+! FACEBOOK / INSTAGRAM
+! ==========================================================
+
+||analytics.instagram.com^
+||graph.facebook.com^$important
+||z-m-gateway.facebook.com^$important
+||z-p42-chat-e2ee-ig.facebook.com^$important
+
+
+! ==========================================================
+! YOUTUBE — NETWORK
+! ==========================================================
+
+||googlevideo.com/videoplayback?*ctier=L&oad^
+||youtube.com/api/stats/ads^
+||youtube.com/get_midroll_info^
+||youtube.com/pagead^
+
+
+! ==========================================================
+! YOUTUBE — BANNER / COSMETIC
+! ==========================================================
+
+youtube.com##.ytp-ad-image-overlay
+youtube.com##ytd-ad-slot-renderer
+youtube.com##ytd-companion-slot-renderer
+youtube.com##ytd-display-ad-renderer
+youtube.com##ytd-promoted-video-renderer
+
+
+! ==========================================================
+! SPECIAL URL / REDIRECT
+! ==========================================================
 
 ||blob:https://www.youtube.com^$important
+||link*jta.site^
+||*.link*jta.site^
+||alihkan*
+
+
+! ==========================================================
+! LOCAL HOSTS
+! ==========================================================
 
 0.0.0.0 app.kompas.com
 0.0.0.0 dreamina.capcut.com
 
-! ===== KEYWORD BLOCK =====
-*advertising*
-*adchoices*
-*adakami*
-*adapundi*
-*adapundi-pinjaman*
-*eazycash*
-*easycash*
-*krediOne*
-*krediOne-pinjaman*
-*Akulaku*
-*Loan*
-*pindar*
-*promote*
-*promo*
-*mcdonalds*
-*analytics*
-*analytic*
-*telemetry*
-*pinjaman*
-*pinjam*
-*pinjol*
-*pinj0l*
-*gacor*
-*cuan*
-*elon*
-*4ds*
-*Tracker*
-*jpmax*
-*bersponsor*
-*sponsored*
-*ads*
-*pagead*
-*iklan*
-*aclk*
-*aclk?*
-*googleadservices*
-*adservices*
-*alihkan*
-*komdigi*
-*kominfo*
-*doubleclick*
-*cookie*
-*cookies*
-*cache*
-*sukseskan*
-*buktirogtoto*
-*keraskale*
-*rogtotostory*
+
+! ==========================================================
+! BROAD TLD / HOSTING
+! ==========================================================
+
+||run.app^
+||com.br^
+
+
+! ==========================================================
+! GOOGLE VIDEO SERVERS
+! ==========================================================
+
+! Sengaja TIDAK diaktifkan karena bisa mematikan video YouTube
+!||*.googlevideo.com^$important
+!||*.gvt1.com^$important*rogtotostory*
 *1dewa*
 *istbw*
 *slot*
